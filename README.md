@@ -72,4 +72,8 @@ README.md파일 작성하는거 `은근히 재미있네` 이거
 [깃허브](https://github.com, "깃허브사이트로 가자고~~")
 
 
+***
+
+![달리기](./images/AAMAZjw.jfif)
+
 
